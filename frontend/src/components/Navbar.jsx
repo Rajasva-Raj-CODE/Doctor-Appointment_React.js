@@ -9,7 +9,12 @@ const Navbar = () => {
 
   return (
     <div className="flex items-center justify-between text-sm py-4 mb-5 border-b border-b-gray-400">
-      <img onClick={()=>navigate('/')} src={assets.logo} alt="" className="w-44 cursor-pointer" />
+      <img
+        onClick={() => navigate("/")}
+        src={assets.logo}
+        alt=""
+        className="w-44 cursor-pointer"
+      />
       <ul className="hidden md:flex items-start gap-5 font-medium">
         <NavLink to="/">
           <li className="py-1">HOME</li>
@@ -35,9 +40,24 @@ const Navbar = () => {
             <img src={assets.dropdown_icon} alt="" className="w-2.5" />
             <div className="absolute top-0 right-0 pt-14 text-base font-medium text-gray-600 z-20 hidden group-hover:block">
               <div className="min-w-48 bg-stone-100 rounded flex flex-col gap-4 p-4 ">
-                <p  onClick={()=>navigate('my-profile')} className="hover:text-black cursor-pointer">My Profile</p>
-                <p  onClick={()=>navigate('my-appointments')}className="hover:text-black cursor-pointer">My Appointments</p>
-                <p  onClick={()=>setToken(false)}className="hover:text-black cursor-pointer">Logout</p>
+                <p
+                  onClick={() => navigate("my-profile")}
+                  className="hover:text-black cursor-pointer"
+                >
+                  My Profile
+                </p>
+                <p
+                  onClick={() => navigate("my-appointments")}
+                  className="hover:text-black cursor-pointer"
+                >
+                  My Appointments
+                </p>
+                <p
+                  onClick={() => setToken(false)}
+                  className="hover:text-black cursor-pointer"
+                >
+                  Logout
+                </p>
               </div>
             </div>
           </div>
@@ -49,6 +69,43 @@ const Navbar = () => {
             Create account
           </button>
         )}
+
+        <img
+          src={assets.menu_icon}
+          alt=""
+          className="w-6 md:hidden"
+          onClick={() => setShowMenu(true)}
+        />
+        {/* ----Mobile menu */}
+
+        <div
+          className={`${
+            showMenu ? "fixed w-full" : "h-0 w-0"
+          } md:hidden right-0 top-0 bottom-0 z-20 overflow-hidden bg-white transition-all`}
+        >
+          <div className="flex items-center justify-between px-5 py-6">
+            <img className="w-36" src={assets.logo} alt="" />
+            <img
+              className="w-7"
+              src={assets.cross_icon}
+              onClick={() => setShowMenu(false)}
+            />
+          </div>
+          <ul className="flex flex-col items-center gap-2 mt-5 px-5 text-lg font-medium">
+            <NavLink onClick={() => showMenu(false)} to={"/home"}>
+              <p className="px-4 py-2 rounded inline-block">Home</p>
+            </NavLink>
+            <NavLink onClick={() => showMenu(false)} to={"/doctors"}>
+              <p className="px-4 py-2 rounded inline-block">All Doctors</p>
+            </NavLink>
+            <NavLink onClick={() => showMenu(false)} to={"/about"}>
+              <p className="px-4 py-2 rounded inline-block">About</p>
+            </NavLink>
+            <NavLink onClick={() => showMenu(false)} to={"/contact"}>
+              <p className="px-4 py-2 rounded inline-block">Contact</p>
+            </NavLink>
+          </ul>
+        </div>
       </div>
     </div>
   );
