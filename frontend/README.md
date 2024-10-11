@@ -29,14 +29,14 @@ In this project, we will create an online appointment booking website for doctor
 📱 Enjoy a fully responsive design, ensuring a smooth experience across all devices!
 
 
-## Images of Flavoro:
+## Images of Prescripto:
 
 #### Hero Section
 
 
 <p align="center">
 
- <img src="https://i.ibb.co/bHdV0nW/Screenshot-2024-10-09-162815.png"  width="750" title="hover text">
+ <img src="https://i.ibb.co/HrqMzZ0/Screenshot-2024-10-11-150555.png"  width="750" title="hover text">
   
 </p>
 
@@ -44,7 +44,7 @@ In this project, we will create an online appointment booking website for doctor
 
 <p align="center">
 
-  <img src="https://i.ibb.co/cJrzXm8/Screenshot-2024-10-09-162916.png"  width="750" title="hover text">
+  <img src="https://i.ibb.co/86gx3rJ/Screenshot-2024-10-11-150620.png"   width="750" title="hover text">
   
 </p>
 
@@ -52,7 +52,7 @@ In this project, we will create an online appointment booking website for doctor
 
 <p align="center">
 
-  <img src="https://i.ibb.co/DtTwqkj/Screenshot-2024-10-09-162948.png"  width="750" title="hover text">
+  <img src="https://i.ibb.co/6tBdXxx/Screenshot-2024-10-11-150637.png"   width="750" title="hover text">
   
 </p>
 
@@ -60,7 +60,7 @@ In this project, we will create an online appointment booking website for doctor
 
 <p align="center">
 
-  <img src="https://i.ibb.co/fpKfmG5/Screenshot-2024-10-09-163022.png"  width="750" title="hover text">
+  <img src="https://i.ibb.co/Zh87HMb/Screenshot-2024-10-11-150652.png"   width="750" title="hover text">
   
 </p>
 
@@ -68,7 +68,7 @@ In this project, we will create an online appointment booking website for doctor
 
 <p align="center">
 
-  <img src="https://i.ibb.co/9hGQKf1/Screenshot-2024-10-09-163051.png"  width="750" title="hover text">
+  <img src="https://i.ibb.co/JjX2mB2/Screenshot-2024-10-11-150706.png"   width="750" title="hover text">
   
 </p>
 
@@ -77,9 +77,91 @@ In this project, we will create an online appointment booking website for doctor
 
 <p align="center">
 
-  <img src="https://i.ibb.co/wRHJSP8/Screenshot-2024-10-09-163112.png" width="750" title="hover text">
+  <img src="https://i.ibb.co/rQwvy9F/Screenshot-2024-10-11-150729.png"  width="750" title="hover text">
   
 </p>
+
+#### ---
+
+
+<p align="center">
+
+  <img src="https://i.ibb.co/b33RLNY/Screenshot-2024-10-11-150743.png"   width="750" title="hover text">
+  
+</p>
+
+#### ---
+
+
+<p align="center">
+
+  <img src="https://i.ibb.co/Cvtr02R/Screenshot-2024-10-11-150803.png" width="750" title="hover text">
+  
+</p>
+
+#### ---
+
+
+<p align="center">
+
+  <img src="https://i.ibb.co/SDgWSVP/Screenshot-2024-10-11-150824.png"  width="750" title="hover text">
+  
+</p>
+
+#### ---
+
+
+<p align="center">
+
+  <img src="https://i.ibb.co/Fwkxp8V/Screenshot-2024-10-11-150906.png"   width="750" title="hover text">
+  
+</p>
+
+#### ---
+
+
+<p align="center">
+
+  <img src="https://i.ibb.co/rdbqVjg/Screenshot-2024-10-11-150929.png"   width="750" title="hover text">
+  
+</p>
+
+#### ---
+
+
+<p align="center">
+
+  <img src="https://i.ibb.co/7yTx8Md/Screenshot-2024-10-11-150945.png"   width="750" title="hover text">
+  
+</p>
+
+#### ---
+
+
+<p align="center">
+
+  <img src="https://i.ibb.co/X7BC1qL/Screenshot-2024-10-11-151035.png"   width="750" title="hover text">
+  
+</p>
+
+#### ---
+
+
+<p align="center">
+
+  <img src="https://i.ibb.co/gTF45kr/Screenshot-2024-10-11-151104.png"   width="750" title="hover text">
+  
+</p>
+
+#### ---
+
+
+<p align="center">
+
+  <img src="https://i.ibb.co/YZZC9QR/Screenshot-2024-10-11-151122.png"   width="750" title="hover text">
+  
+</p>
+
 
 ## 🚀 Getting Started
 To get started with this project, clone the repository and install the necessary dependencies.
