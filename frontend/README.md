@@ -1,8 +1,9 @@
 # Fully Responsive Website with Modern UI/UX in React JS with Tailwind 🔥
 
 ![GitHub stars](https://img.shields.io/github/stars/Doctor-Appointment_React.js?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/Doctor-Appointment_React.js?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/Doctor-Appointment_React.js.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+![GitHub forks](https://img.shields.io/github/forks/Rajasva-Raj-CODE/Flavoro-React-JS?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
+![Github Followers](https://img.shields.io/github/followers/Rajasva-Raj-CODE.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+
 
 ---
 # ⭐DO NOT FORGET TO STAR THIS REPO⭐
