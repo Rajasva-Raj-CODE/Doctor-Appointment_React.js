@@ -17,12 +17,16 @@ In this project, we will create an online appointment booking website for doctor
 - Tailwind CSS
 
 ## ✨ Features
-🩺 Filter doctors by their specialties for personalized care.
-📅 Book appointments in a seamless 7-day window.
-🔐 Log in or create an account on the spot, making the process super convenient.
-✍️ Edit and update personal information through the My Profile feature.
-📱 Enjoy a fully responsive design, ensuring a smooth experience across all devices!
 
+🩺 Filter doctors by their specialties for personalized care.
+
+📅 Book appointments in a seamless 7-day window.
+
+🔐 Log in or create an account on the spot, making the process super convenient.
+
+✍️ Edit and update personal information through the My Profile feature.
+
+📱 Enjoy a fully responsive design, ensuring a smooth experience across all devices!
 
 
 ## Images of Flavoro:
